@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahmah
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning the best practice and their benfits
+- 🌱 I’m currently learning the best practices and their benfits
 - 📫 You can reach me at rahmah.alabbadi@gmail.com
 
 <!---
